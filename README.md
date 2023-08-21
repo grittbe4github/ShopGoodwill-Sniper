@@ -1,2 +1,2 @@
-# ShopGoodwill
+# ShopGoodwill Sniper
 ShopGoodwill Sniper
