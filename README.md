@@ -19,6 +19,6 @@ The ShopGoodwill Sniper is a sniping tool for use with the ShopGoodwill.com webs
 #### Snipers
 [![Auction Sniper](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper.png?raw=true)](https://github.com/Auction-Sniper/app)  |  [![ShopGoodwill Sniper](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/shopgoodwillsniper.png?raw=true)](https://github.com/Auction-Sniper/ShopGoodwill)
 :-------------------------:|:-------------------------:
-[All-In-One Snipers](https://github.com/Auction-Sniper/app)             |  [ShopGoodwill](https://github.com/Auction-Sniper/ShopGoodwill)
+[All-In-One Snipers](https://github.com/Auction-Sniper/app)             |  [eBay](https://github.com/Auction-Sniper/ebay)
 ##### Privacy
 We do not collect any information at all simply because we are not interested in storing your information which would increase our costs and liability, therefore we are only interested in developing high quality software for anyone to use, having said that we are not sure why the rest of the world doesn't also not collect info?
