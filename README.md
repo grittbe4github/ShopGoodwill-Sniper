@@ -1,9 +1,9 @@
 # ShopGoodwill Sniper
 ![ShopGoodwill Sniper](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/shopgoodwillsniper2.png?raw=true)
 ## Downloads
-[![ShopGoodwill Sniper Windows](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-windows.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-9WRE-86hz5GZHAs19xzIFtcsOiXz5tn?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)  |  [![ShopGoodwill Sniper Mac](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-mac.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-Dlh-COYkcYffY2jM11yG_x3dkleRj4C?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
+[![ShopGoodwill Sniper Windows](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-windows.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-At24VKaHTOjB-RJCqb5S0EIEtqdo9o3?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)  |  [![ShopGoodwill Sniper Mac](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-mac.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-LNHq8kD47PFrM5Z57eo5--qSz8etJ3K?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
 :-------------------------:|:-------------------------:
-[Windows](https://www.googleapis.com/drive/v3/files/1-9WRE-86hz5GZHAs19xzIFtcsOiXz5tn?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)             |  [Mac](https://www.googleapis.com/drive/v3/files/1-Dlh-COYkcYffY2jM11yG_x3dkleRj4C?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
+[Windows](https://www.googleapis.com/drive/v3/files/1-At24VKaHTOjB-RJCqb5S0EIEtqdo9o3?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)             |  [Mac](https://www.googleapis.com/drive/v3/files/1-LNHq8kD47PFrM5Z57eo5--qSz8etJ3K?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
 ### Features
 - Snipe multiple auctions simultaneously on ShopGoodwill.com at the last second
 - Never reveal your password to us, this runs on your own computer, not a service
