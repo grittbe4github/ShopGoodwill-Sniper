@@ -5,7 +5,7 @@
 :-------------------------:|:-------------------------:
 [Windows](https://www.googleapis.com/drive/v3/files/1-9WRE-86hz5GZHAs19xzIFtcsOiXz5tn?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)             |  [Mac](https://www.googleapis.com/drive/v3/files/1-Dlh-COYkcYffY2jM11yG_x3dkleRj4C?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
 ### Features
-- Snipe multiple auctions simultaneously on ShopGoodwill.com at the very last second
+- Snipe multiple auctions simultaneously on ShopGoodwill.com at the last second
 - Never reveal your password to us, this runs on your own computer, not a service
 - Minimize to System Tray for leaving running in the background without windows
 - Organize and schedule all your bids in one workflow like a true professional
